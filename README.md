@@ -5,6 +5,9 @@
 ### **Introduction**
 In recent years, there has been a global increase in distracted driving-related traffic incidents, leading to a rise in injuries, property damage, and fatalities. The urgency to address this issue has prompted the development of innovative solutions to track and examine driver behavior, aiming to reduce accident rates. Our project aligns with the Vision Zero initiative, striving to eliminate all traffic-related fatalities and serious injuries.
 
+![WhatsApp Image 2023-11-19 at 2 18 11 AM](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/2cc0bce9-ee01-4707-b5fb-9448f79aba90)
+
+
 ### Project Objective : 
 The primary goal of this project is to develop an advanced Accident Detection System capable of recognizing accidents in real-time through live video feeds from CCTV cameras mounted on roads. To achieve this, each frame of the video undergoes analysis through a Convolution Neural Network (CNN) model specifically trained to distinguish between accident and non-accident related video frames.
 
