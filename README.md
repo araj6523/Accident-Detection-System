@@ -24,7 +24,7 @@ Our dataset undergoes comprehensive preprocessing, including data augmentation a
 
 ## **Comparative Analysis**
 
-#### **1. CNN-Based Model (74.9 percent Accuracy): ***
+#### 1. CNN-Based Model (74.9 percent Accuracy): 
 **Strengths:**
 Hierarchical Feature Capture: Traditional CNNs excel in capturing hierarchical features from images through convolutional layers, making them well-suited for image recognition tasks.
 Pattern Recognition: Their ability to learn intricate patterns makes them effective for handling complex scenarios.
@@ -46,5 +46,5 @@ Hierarchical Feature Processing: SpinalNetV2 introduces spinal layers that captu
 Multiple Spinal Layers: The incorporation of multiple spinal layers allows the model to understand complex relationships in data, contributing to improved accuracy.
 
 
-## **Conclusion **
+## Conclusion 
 In conclusion, our Accident Detection System combines state-of-the-art deep learning techniques, including CNNs, transfer learning with MobileNetV2, and the integration of a SpinalNet fully connected layer. The system aims to contribute to the Vision Zero initiative by swiftly identifying accidents and minimizing reaction time, thereby reducing the overall number of traffic-related fatalities and serious injuries.
