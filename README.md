@@ -5,10 +5,10 @@
 ### **Introduction**
 In recent years, there has been a global increase in distracted driving-related traffic incidents, leading to a rise in injuries, property damage, and fatalities. The urgency to address this issue has prompted the development of innovative solutions to track and examine driver behavior, aiming to reduce accident rates. Our project aligns with the Vision Zero initiative, striving to eliminate all traffic-related fatalities and serious injuries.
 
-### **Project Objective : **
+### Project Objective : 
 The primary goal of this project is to develop an advanced Accident Detection System capable of recognizing accidents in real-time through live video feeds from CCTV cameras mounted on roads. To achieve this, each frame of the video undergoes analysis through a Convolution Neural Network (CNN) model specifically trained to distinguish between accident and non-accident related video frames.
 
-###  **Methodology**
+###  Methodology
 
 ### **Proposed Solution 1: CNN-Based Accident Detection **
 We have implemented a CNN-based approach as our primary solution for detecting distracted drivers. This method leverages deep learning techniques to analyze various postures and circumstances of a distracted driver. The CNN model is trained on a dataset that encompasses diverse scenarios, and the results are thoroughly analyzed to validate its efficiency.
