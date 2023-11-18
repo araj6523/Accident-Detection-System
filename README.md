@@ -10,7 +10,7 @@ The primary goal of this project is to develop an advanced Accident Detection Sy
 
 ###  Methodology
 
-### **Proposed Solution 1: CNN-Based Accident Detection **
+### Proposed Solution 1: CNN-Based Accident Detection 
 We have implemented a CNN-based approach as our primary solution for detecting distracted drivers. This method leverages deep learning techniques to analyze various postures and circumstances of a distracted driver. The CNN model is trained on a dataset that encompasses diverse scenarios, and the results are thoroughly analyzed to validate its efficiency.
 
 ### **Proposed Solution 2: MobileNetV2 Architecture with Transfer Learning**
@@ -40,7 +40,7 @@ Weaknesses:
 Accuracy Trade-off: MobileNetV2 might sacrifice some accuracy compared to more complex models designed for high-performance environments.
 Handling Complex Features: It may be limited in effectively handling highly complex or intricate features in certain datasets.
 
-##### **3. SpinalNetV2-Based Model (95.9184 percent accuracy):**
+#### **3. SpinalNetV2-Based Model (95.9184 percent accuracy):**
 **Strengths:**
 Hierarchical Feature Processing: SpinalNetV2 introduces spinal layers that capture and process features hierarchically, enhancing the model’s ability to learn intricate patterns.
 Multiple Spinal Layers: The incorporation of multiple spinal layers allows the model to understand complex relationships in data, contributing to improved accuracy.
