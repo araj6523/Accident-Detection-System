@@ -63,6 +63,7 @@ Handling Complex Features: It may be limited in effectively handling highly comp
 Hierarchical Feature Processing: SpinalNetV2 introduces spinal layers that capture and process features hierarchically, enhancing the model’s ability to learn intricate patterns.
 Multiple Spinal Layers: The incorporation of multiple spinal layers allows the model to understand complex relationships in data, contributing to improved accuracy.
 
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (6)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/829650da-5188-4c15-b252-8c35ebe9ae83)
 
 ## Conclusion 
 In conclusion, our Accident Detection System combines state-of-the-art deep learning techniques, including CNNs, transfer learning with MobileNetV2, and the integration of a SpinalNet fully connected layer. The system aims to contribute to the Vision Zero initiative by swiftly identifying accidents and minimizing reaction time, thereby reducing the overall number of traffic-related fatalities and serious injuries.
