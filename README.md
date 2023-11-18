@@ -16,11 +16,26 @@ The primary goal of this project is to develop an advanced Accident Detection Sy
 ### Proposed Solution 1: CNN-Based Accident Detection 
 We have implemented a CNN-based approach as our primary solution for detecting distracted drivers. This method leverages deep learning techniques to analyze various postures and circumstances of a distracted driver. The CNN model is trained on a dataset that encompasses diverse scenarios, and the results are thoroughly analyzed to validate its efficiency.
 
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (1)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/a3159f31-e187-4c49-b218-ac18a0edc36f)
+
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (2)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/9940d573-216d-4dec-8170-38643d142fee)
+
 ### **Proposed Solution 2: MobileNetV2 Architecture with Transfer Learning**
 To enhance the efficiency of our accident detection system, we incorporated MobileNetV2 architecture as our second proposed solution. This architecture is employed for transfer learning, leveraging pre-trained weights to improve the model's ability to distinguish accident-related frames. The utilization of MobileNetV2 aids in achieving a balance between accuracy and computational efficiency.
 
+![WhatsApp Image 2023-11-19 at 2 18 10 AM](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/1f65db35-94ba-43e4-a94e-2a96ccbb7aa6)
+
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (3)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/16c5103c-09fa-4c03-bedc-afc0261fa31a)
+
+
 ### **Proposed Solution 3:  Transfer Learning with SpinalNet Fully Connected Layer**
 For further refinement, we implemented transfer learning with a SpinalNet fully connected layer. This addition enhances the model's capacity to capture intricate features crucial for accident detection. The SpinalNet layer contributes to the overall robustness of the system and improves its performance in identifying complex accident scenarios.
+
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (4)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/844884d4-5399-417d-bf7a-156d95a38c25)
+
+![WhatsApp Image 2023-11-19 at 2 18 10 AM (1)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/ad1ea7a2-d787-4ef1-b3f9-19b2c9840e6d)
+
+![WhatsApp Image 2023-11-19 at 2 18 11 AM (5)](https://github.com/ashish6523/Accident-Detection-System/assets/108401537/e65acd4c-d6bb-48bf-9dd2-baf539e7b904)
 
 ## **Data Preprocessing**
 Our dataset undergoes comprehensive preprocessing, including data augmentation and normalization. These steps are essential to ensure the model's generalization across various scenarios and postures of distracted drivers. Data augmentation helps increase the diversity of the training set, while normalization ensures consistent and standardized input for the neural network.
